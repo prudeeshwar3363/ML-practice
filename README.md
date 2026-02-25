@@ -4,7 +4,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-FF6F00?style=for-the-badge&logo=tensorflow)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Deployment-009688?style=for-the-badge&logo=fastapi)
-![Progress](https://img.shields.io/badge/Progress-1%25-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-3%25-red?style=for-the-badge)
 
 ---
 
@@ -45,7 +45,7 @@ By Day 60, I will:
 | Day | Topic | Status | Confidence | Folder |
 |-----|-------|--------|------------|--------|
 | 01 | Vectors & NumPy | ✅ | 10/10 | Day1-vector-basics |
-| 02 | Matrices | ⬜ | - | - |
+| 02 | Matrices | ⬜ | 10/10 | Day2-Matrices |
 | 03 | Statistics | ⬜ | - | - |
 | 04 | Probability | ⬜ | - | - |
 | 05 | Gradient Descent | ⬜ | - | - |
@@ -166,7 +166,10 @@ Concept Revision, Mock Interviews, DSA + SQL
 > Gained clarity on how linear models compute predictions internally.
 
 ### Day 02
->  
+> Understood how datasets are represented as matrices in ML.
+> Implemented matrix multiplication manually.
+> Simulated ML prediction using matrix-vector multiplication.
+> Gained clarity on how linear models compute outputs efficiently.
 
 (Write 3–5 lines daily about what you understood.)
 
@@ -174,10 +177,10 @@ Concept Revision, Mock Interviews, DSA + SQL
 
 # 📊 Progress Dashboard
 
-**Days Completed:** 1 / 60  
-**Consistency Streak:** 1 Days  
+**Days Completed:** 2 / 60  
+**Consistency Streak:** 2 Days  
 **Projects Completed:** 0 / 4  
-**Current Confidence Level:** 9 / 10  
+**Current Confidence Level:** 10 / 10  
 
 ---
 
