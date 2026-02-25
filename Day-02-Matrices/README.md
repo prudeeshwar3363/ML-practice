@@ -38,6 +38,7 @@ X = np.array([
     [25, 35000, 3],
     [30, 60000, 7]
 ])
+```
 
 ### Manual Matrix Multiplication
 
@@ -51,11 +52,13 @@ def matrix_multiply(A, B):
                 result[i][j] += A[i][k] * B[k][j]
 
     return result
+```
 
 ### NumPy Multiplication
 
 ```python
 np.dot(A, B)
+```
 
 ## 📊 Observations
 
