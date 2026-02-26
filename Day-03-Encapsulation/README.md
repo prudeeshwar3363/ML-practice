@@ -1,7 +1,7 @@
 # 🔐 Day 3 – Encapsulation & Abstraction
 
 ## 📅 Date
-(Enter today's date here)
+26-02-2026
 
 ---
 
