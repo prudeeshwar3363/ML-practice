@@ -1,7 +1,7 @@
 # 📘 Day 05 – Cost Function & Gradient Descent
 
 ## 📅 Date  
-[Enter Date]
+28-02-2026
 
 ---
 
@@ -88,16 +88,8 @@ To understand how machine learning models learn by minimizing prediction error u
 
 ---
 
-## 🔜 Next Step
-
-Build a complete Linear Regression model from scratch and train it end-to-end.
-
----
-
 ## 💡 Reflection
 
-Today was a major milestone in my ML journey.
-
-For the first time, I clearly understood how a machine learning model learns and improves through optimization rather than just using pre-built library functions.
-
-This strengthened my mathematical foundation and boosted my confidence in understanding model training mechanics.
+- Today was a major milestone in my ML journey.
+- I clearly understood how a machine learning model learns and improves through optimization rather than just using pre-built library functions.
+- This strengthened my mathematical foundation and boosted my confidence in understanding model training mechanics.
