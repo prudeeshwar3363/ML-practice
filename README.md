@@ -4,7 +4,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-FF6F00?style=for-the-badge&logo=tensorflow)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Deployment-009688?style=for-the-badge&logo=fastapi)
-![Progress](https://img.shields.io/badge/Progress-7%25-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-8%25-red?style=for-the-badge)
 
 ---
 
@@ -48,7 +48,7 @@ By Day 60, I will:
 | 02 | Matrices | ✅ | 10/10 | Day2-Matrices |
 | 03 | Statistics | ✅ | 10/10 | Day-03-Statistics |
 | 04 | Probability | ✅ | 10/10 | Day-04-Probability |
-| 05 | Gradient Descent | ⬜ | - | - |
+| 05 | Gradient Descent | ✅ | 9/10 | Day-05-Gradient-Descent |
 | 06 | Linear Regression (Scratch) | ⬜ | - | - |
 | 07 | Revision + GitHub | ⬜ | - | - |
 | ... | ... | ... | ... | ... |
@@ -161,26 +161,34 @@ Concept Revision, Mock Interviews, DSA + SQL
 # 📝 Daily Reflection Log
 
 ### Day 01
-> Learned how vectors represent feature space in ML models. 
-> Implemented dot product manually and compared with NumPy.
-> Gained clarity on how linear models compute predictions internally.
+- Learned how vectors represent feature space in ML models. 
+- Implemented dot product manually and compared with NumPy.
+- Gained clarity on how linear models compute predictions internally.
 
 ### Day 02
-> Understood how datasets are represented as matrices in ML.
-> Implemented matrix multiplication manually.
-> Simulated ML prediction using matrix-vector multiplication.
-> Gained clarity on how linear models compute outputs efficiently.
+- Understood how datasets are represented as matrices in ML.
+- Implemented matrix multiplication manually.
+- Simulated ML prediction using matrix-vector multiplication.
+- Gained clarity on how linear models compute outputs efficiently.
 
 ### Day 03
-> Implemented mean, variance, and standard deviation from scratch.
-> Understood how standardization transforms data distribution.
-> Verified mathematically that scaled data has mean ≈ 0 and std ≈ 1.
-> Gained clarity on why feature scaling is essential before training models.
+- Implemented mean, variance, and standard deviation from scratch.
+- Understood how standardization transforms data distribution.
+- Verified mathematically that scaled data has mean ≈ 0 and std ≈ 1.
+- Gained clarity on why feature scaling is essential before training models.
 
 ### Day 04
-> Learned probability fundamentals and conditional probability.
-> Implemented Bayes theorem and understood how rare events affect predictions.
-> Connected probability concepts to Naive Bayes classifier in ML.
+- Learned probability fundamentals and conditional probability.
+- Implemented Bayes theorem and understood how rare events affect predictions.
+- Connected probability concepts to Naive Bayes classifier in ML.
+
+### Day 05 – Cost Function & Gradient Descent
+
+- Today was a major breakthrough in my ML journey.  
+- I implemented Mean Squared Error and Gradient Descent manually, which helped me understand how machine learning models actually learn from data.  
+- Observing the cost decrease over iterations gave me clear intuition about optimization and parameter updates.  
+- I now understand how weights move toward optimal values and why learning rate plays a critical role in convergence.  
+- This removed the “black box” feeling around model training and strengthened my mathematical foundation.
 
 (Write 3–5 lines daily about what you understood.)
 
@@ -188,10 +196,10 @@ Concept Revision, Mock Interviews, DSA + SQL
 
 # 📊 Progress Dashboard
 
-**Days Completed:** 4 / 60  
-**Consistency Streak:** 4 Days  
+**Days Completed:** 5 / 60  
+**Consistency Streak:** 5 Days  
 **Projects Completed:** 0 / 4  
-**Current Confidence Level:** 10 / 10  
+**Current Confidence Level:** 9 / 10  
 
 ---
 
