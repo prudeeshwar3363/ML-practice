@@ -4,7 +4,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-FF6F00?style=for-the-badge&logo=tensorflow)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Deployment-009688?style=for-the-badge&logo=fastapi)
-![Progress](https://img.shields.io/badge/Progress-8%25-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-10%25-red?style=for-the-badge)
 
 ---
 
@@ -49,7 +49,7 @@ By Day 60, I will:
 | 03 | Statistics | ✅ | 10/10 | Day-03-Statistics |
 | 04 | Probability | ✅ | 10/10 | Day-04-Probability |
 | 05 | Gradient Descent | ✅ | 9/10 | Day-05-Gradient-Descent |
-| 06 | Linear Regression (Scratch) | ⬜ | - | - |
+| 06 | Linear Regression (Scratch) | ✅ | 9/10 | Day-06-Linear-Regression |
 | 07 | Revision + GitHub | ⬜ | - | - |
 | ... | ... | ... | ... | ... |
 | 60 | Final Review & Polish | ⬜ | - | - |
@@ -61,7 +61,7 @@ By Day 60, I will:
 # 🧠 Skill Tracker
 
 ## 📊 Machine Learning
-- [ ] Linear Regression (Scratch)
+- [x] Linear Regression (Scratch)
 - [ ] Logistic Regression
 - [ ] KNN
 - [ ] Decision Trees
@@ -183,12 +183,17 @@ Concept Revision, Mock Interviews, DSA + SQL
 - Connected probability concepts to Naive Bayes classifier in ML.
 
 ### Day 05 – Cost Function & Gradient Descent
-
 - Today was a major breakthrough in my ML journey.  
 - I implemented Mean Squared Error and Gradient Descent manually, which helped me understand how machine learning models actually learn from data.  
 - Observing the cost decrease over iterations gave me clear intuition about optimization and parameter updates.  
 - I now understand how weights move toward optimal values and why learning rate plays a critical role in convergence.  
 - This removed the “black box” feeling around model training and strengthened my mathematical foundation.
+
+### Day 06 – Linear Regression From Scratch
+- Today I built a complete Linear Regression model from scratch using Gradient Descent.
+- I implemented the full training loop, observed parameter convergence, and validated results against sklearn.
+- This strengthened my understanding of optimization and how supervised learning models are structured internally.
+- Machine learning now feels less like a black box and more like engineered mathematics.
 
 (Write 3–5 lines daily about what you understood.)
 
@@ -196,8 +201,8 @@ Concept Revision, Mock Interviews, DSA + SQL
 
 # 📊 Progress Dashboard
 
-**Days Completed:** 5 / 60  
-**Consistency Streak:** 5 Days  
+**Days Completed:** 6 / 60  
+**Consistency Streak:** 6 Days  
 **Projects Completed:** 0 / 4  
 **Current Confidence Level:** 9 / 10  
 
