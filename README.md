@@ -4,7 +4,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-FF6F00?style=for-the-badge&logo=tensorflow)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Deployment-009688?style=for-the-badge&logo=fastapi)
-![Progress](https://img.shields.io/badge/Progress-10%25-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-12%25-red?style=for-the-badge)
 
 ---
 
@@ -50,7 +50,8 @@ By Day 60, I will:
 | 04 | Probability | ✅ | 10/10 | Day-04-Probability |
 | 05 | Gradient Descent | ✅ | 9/10 | Day-05-Gradient-Descent |
 | 06 | Linear Regression (Scratch) | ✅ | 9/10 | Day-06-Linear-Regression |
-| 07 | Revision + GitHub | ⬜ | - | - |
+| 07 | Model Validation & Experiments | ✅ | 8/10 | Day-07-Model-Validation |
+| 07 | Revision + GitHub | ✅ | 9/10 |  |
 | ... | ... | ... | ... | ... |
 | 60 | Final Review & Polish | ⬜ | - | - |
 
@@ -195,14 +196,21 @@ Concept Revision, Mock Interviews, DSA + SQL
 - This strengthened my understanding of optimization and how supervised learning models are structured internally.
 - Machine learning now feels less like a black box and more like engineered mathematics.
 
+### Day 07 – Model Validation & Experiments
+
+- Today I tested my linear regression model under different conditions including noisy data, reduced iterations, and extreme learning rates.
+- I observed how noise slightly alters the slope, how insufficient iterations cause underfitting, and how large learning rates lead to divergence.
+- This strengthened my understanding of optimization behavior and model stability.
+- I now understand how hyperparameters affect convergence and why residual analysis is important in regression.
+
 (Write 3–5 lines daily about what you understood.)
 
 ---
 
 # 📊 Progress Dashboard
 
-**Days Completed:** 6 / 60  
-**Consistency Streak:** 6 Days  
+**Days Completed:** 7 / 60  
+**Consistency Streak:** 7 Days  
 **Projects Completed:** 0 / 4  
 **Current Confidence Level:** 9 / 10  
 
