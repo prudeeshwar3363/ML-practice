@@ -4,7 +4,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-FF6F00?style=for-the-badge&logo=tensorflow)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Deployment-009688?style=for-the-badge&logo=fastapi)
-![Progress](https://img.shields.io/badge/Progress-12%25-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-13%25-red?style=for-the-badge)
 
 ---
 
@@ -52,6 +52,7 @@ By Day 60, I will:
 | 06 | Linear Regression (Scratch) | ✅ | 9/10 | Day-06-Linear-Regression |
 | 07 | Model Validation & Experiments | ✅ | 8/10 | Day-07-Model-Validation |
 | 07 | Revision + GitHub | ✅ | 9/10 |  |
+| 08 | Logistic Regression (Theory + Log Loss) | ✅ | 8.5/10 | Day-08-Logistic-Regression-Theory |
 | ... | ... | ... | ... | ... |
 | 60 | Final Review & Polish | ⬜ | - | - |
 
@@ -203,14 +204,21 @@ Concept Revision, Mock Interviews, DSA + SQL
 - This strengthened my understanding of optimization behavior and model stability.
 - I now understand how hyperparameters affect convergence and why residual analysis is important in regression.
 
+### Day 08 – Logistic Regression Fundamentals
+
+- Today I transitioned from regression to classification by studying Logistic Regression.
+- I implemented the sigmoid function, computed probabilities manually, and derived log-loss from scratch.
+- I understood how decision boundaries are formed and why cross-entropy loss is preferred over MSE.
+- This strengthened my understanding of probability-based prediction and classification optimization.
+
 (Write 3–5 lines daily about what you understood.)
 
 ---
 
 # 📊 Progress Dashboard
 
-**Days Completed:** 7 / 60  
-**Consistency Streak:** 7 Days  
+**Days Completed:** 8 / 60  
+**Consistency Streak:** 8 Days  
 **Projects Completed:** 0 / 4  
 **Current Confidence Level:** 9 / 10  
 
